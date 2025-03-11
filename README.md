@@ -32,7 +32,7 @@ I'm a developer specializing in **Bots**, **Automation**, **Data Extraction**, *
 
 ![Most Used Languages](https://github-readme-stats-ten-alpha-97.vercel.app/api/top-langs/?username=ba1lly&count_private=true&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical)
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical))
 
 ---
 
