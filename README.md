@@ -23,16 +23,14 @@ Here's a quick summary of projects I regularly work on:
 
 ![Most Used Languages](https://github-readme-stats-ten-alpha-97.vercel.app/api/top-langs/?username=ba1lly&count_private=true&layout=compact&theme=radical)
 
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical])
-
 ---
 
 ### 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
@@ -40,10 +38,6 @@ Here's a quick summary of projects I regularly work on:
 ![N8N](https://img.shields.io/badge/n8n-F36C3D?style=flat&logo=n8n&logoColor=white)
 ![Dune Analytics](https://img.shields.io/badge/Dune_Analytics-FF7F0E?style=flat)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat)
-
----
-
-
 
 ---
 
