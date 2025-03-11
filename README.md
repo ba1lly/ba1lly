@@ -4,27 +4,18 @@ I'm a developer specializing in **Bots**, **Automation**, **Data Extraction**, *
 
 ---
 
-### ⚙️ My Expertise Includes:
+### 🚀 Project Overview
 
-- 🤖 **Bots & Automation**
-  - **Telegram, Discord, and Twitter Bots**
-    - Stat bots (Analytics, Tracking, Monitoring)
-    - Utility bots (User interactions, notifications)
-  - **Onchain (EVM) Bots**
-    - Smart contract interactions and blockchain monitoring
-  - **Workflow Automation**
-    - Node.js, Python, N8N
+Here's a quick summary of projects I regularly work on:
 
-- 🗃️ **Data Extraction & Databases**
-  - SQL Databases (PostgreSQL, Supabase, Airtable)
-  - API integrations and parsing scripts (Node.js, Python)
+- **Multi-platform Bots** – Telegram, Discord, and Twitter bots for analytics, stats, and utility.
+- **Onchain EVM Bots** – Bots that interact with blockchain smart contracts.
+- **Workflow Automation** – Node.js, Python scripts, and automated workflows in N8N.
+- **Data Extraction & Integration** – Parsing APIs, smart contract data, and external sources into SQL and NoSQL databases.
+- **Analytics Dashboards** – Interactive dashboards using Dune Analytics and Looker Studio.
+- **AI & ML Chatbots** – Conversational chatbots and AI-powered data analysis tools.
 
-- 🤖 **AI & Analytics**
-  - **AI**
-    - Chatbots and conversational AI
-    - AI-driven data analysis
-  - **Analytics Dashboards**
-    - Dune Analytics, Looker Studio dashboards and visualizations
+*(Most repositories are private due to sensitive or proprietary content.)*
 
 ---
 
@@ -32,7 +23,7 @@ I'm a developer specializing in **Bots**, **Automation**, **Data Extraction**, *
 
 ![Most Used Languages](https://github-readme-stats-ten-alpha-97.vercel.app/api/top-langs/?username=ba1lly&count_private=true&layout=compact&theme=radical)
 
-![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical))
+![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com/?user=ba1lly&theme=radical])
 
 ---
 
@@ -52,18 +43,7 @@ I'm a developer specializing in **Bots**, **Automation**, **Data Extraction**, *
 
 ---
 
-### 🚀 Project Overview
 
-Here's a quick summary of projects I regularly work on:
-
-- **Multi-platform Bots** – Telegram, Discord, and Twitter bots for analytics, stats, and utility.
-- **Onchain EVM Bots** – Bots that interact with blockchain smart contracts.
-- **Workflow Automation** – Node.js, Python scripts, and automated workflows in N8N.
-- **Data Extraction & Integration** – Parsing APIs, smart contract data, and external sources into SQL and NoSQL databases.
-- **Analytics Dashboards** – Interactive dashboards using Dune Analytics and Looker Studio.
-- **AI & ML Chatbots** – Conversational chatbots and AI-powered data analysis tools.
-
-*(Most repositories are private due to sensitive or proprietary content.)*
 
 ---
 
