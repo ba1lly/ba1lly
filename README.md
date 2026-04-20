@@ -25,7 +25,7 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 ---
 
 ### 🚀 GitHub Stats
-![Most Used Languages](https://github-readme-stats-ten-alpha-97.vercel.app/api/top-langs/?username=ba1lly&count_private=true&layout=compact&theme=radical)
+![Most Used Languages](https://github-readme-stats-t973.vercel.app/api/top-langs/?username=ba1lly&count_private=true&layout=compact&theme=radical)
 
 ---
 
