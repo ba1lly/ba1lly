@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bailly
 
 I build production AI agent systems and automation infrastructure that runs 24/7.
-29 agents deployed across Discord, Telegram, and headless environments.
+35+ agents deployed across Discord, Telegram, and headless environments.
 Hundreds of n8n workflows built over 5 years, 43 live in production.
 24 years of mechanical and electrical engineering before that.
 
