@@ -9,15 +9,15 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 
 ### 🤖 What I Build
 
-- **Multi-Agent Systems** – 29-agent platform spanning operations, finance, algo trading, marketing, coding, blockchain, and MEP engineering. 856+ custom skills, inter-agent handoff, Hindsight/QMD memory backend.
-- **n8n Automation** – Enterprise-grade workflows: social media engines, DeFi event bots, ETL pipelines, lead enrichment, CRM integrations, Telegram games. 100+ integrations, self-hosted HA.
+- **Multi-Agent Systems** – 35-agent platform spanning operations, finance, algo trading, marketing, coding, blockchain, and MEP engineering. 1,121+ custom skills, inter-agent handoff, Hindsight memory backend.
+- **n8n Automation** – Enterprise-grade workflows: social media engines, DeFi event bots, ETL pipelines, lead enrichment, CRM integrations, Telegram games. 100+ integrations, hosted and self-hosted.
 - **LLM Operations** – 80+ model aliases across 14 providers (OpenAI, Anthropic, Kimi K2.5, Gemini, Qwen, GLM, DeepSeek, MiniMax). Intelligent routing, cost optimisation, fallback chains.
 - **Bots** – Telegram and Discord bots for Web3 actions, AI responses, live stats, alerts and notifications.
 - **RAG & Memory** – Supabase vector stores, OpenAI embeddings, Cohere reranking, local embeddings, context compression.
 - **Data Pipelines** – Node.js and Python ETL, on-chain event parsing, REST/GraphQL ingestion, Supabase/PostgreSQL, multithreaded scrapers handling 100k+ records.
 - **Dashboards** – Looker Studio and Dune Analytics dashboards that self-update and stay readable for non-technical teams.
-- **Algo Trading** – Live Binance Futures bot: 61% win rate, 2.09 profit factor.
-- **SaaS** – Full-stack Next.js 14, Supabase, Stripe billing, ReportLab PDF generation.
+- **Algo Trading** – Live Binance Futures bot.
+- **SaaS** – Full-stack Next.js, Supabase, Stripe billing, ReportLab PDF generation.
 - **MEP Engineering** – HVAC and electrical design, AutoCAD, heat-load calcs, data centres.
 
 *(Most repositories are private due to sensitive or proprietary content.)*
