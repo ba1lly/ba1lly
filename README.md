@@ -7,6 +7,13 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 
 ---
 
+### 🔭 Selected Work
+
+- **[Nocturne](https://github.com/ba1lly/nocturne)** – autonomous coding orchestrator (MIT). Label a GitHub issue and it drives an agent to fix it on an isolated branch, verifies with tests, opens a PR, and repairs its own PRs from CI and review feedback. Never merges, never touches main.
+- **[Mynah](https://github.com/ba1lly/Mynah)** – records Discord voice calls and transcribes them locally with ground-truth per-speaker labels. No bot in the channel, nothing leaves the machine. One-click installer, verified self-update.
+
+---
+
 ### 🤖 What I Build
 
 - **Multi-Agent Systems** – 35-agent platform spanning operations, finance, algo trading, marketing, coding, blockchain, and MEP engineering. 1,121+ custom skills, inter-agent handoff, Hindsight memory backend.
