@@ -20,8 +20,6 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 - **SaaS** – Full-stack Next.js, Supabase, Stripe billing, ReportLab PDF generation.
 - **MEP Engineering** – HVAC and electrical design, AutoCAD, heat-load calcs, data centres.
 
-*(Most repositories are private due to sensitive or proprietary content.)*
-
 ---
 
 ### 🚀 GitHub Stats
