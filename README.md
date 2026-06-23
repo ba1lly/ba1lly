@@ -11,6 +11,7 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 
 - **[Nocturne](https://github.com/ba1lly/nocturne)** – autonomous coding orchestrator (MIT). Label a GitHub issue and it drives an agent to fix it on an isolated branch, verifies with tests, opens a PR, and repairs its own PRs from CI and review feedback. Never merges, never touches main.
 - **[Mynah](https://github.com/ba1lly/Mynah)** – records Discord voice calls and transcribes them locally with ground-truth per-speaker labels. No bot in the channel, nothing leaves the machine. One-click installer, verified self-update.
+- **[OpenPrism](https://github.com/ba1lly/OpenPrism)** – Fusion-style multi-model panel and judge, exposed as an MCP server (MIT). Fans one prompt out to a diverse panel of models in parallel, then a separate judge reconciles their answers into a single result: research synthesis, best-of-N code selection, or head-to-head bakeoff. Piggybacks your opencode providers with no keys of its own, and grades every run by model-family diversity so a single-model monoculture never poses as a panel.
 
 ---
 
