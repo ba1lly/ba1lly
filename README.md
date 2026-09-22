@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Bailly
 
 I build production AI agent systems and automation infrastructure that runs 24/7.
-35+ agents deployed across Discord, Telegram, and headless environments.
+A team of 16 AI agents deployed across Discord, Telegram, and headless environments.
 Hundreds of n8n workflows built over 5 years, 43 live in production.
 24 years of mechanical and electrical engineering before that.
 
@@ -17,14 +17,16 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 
 ### 🤖 What I Build
 
-- **Multi-Agent Systems** – 35-agent platform spanning operations, finance, algo trading, marketing, coding, blockchain, and MEP engineering. 1,121+ custom skills, inter-agent handoff, Hindsight memory backend.
+- **Multi-Agent Systems** – 16-agent platform spanning operations, finance, algo trading, marketing, coding, blockchain, and MEP engineering. 1,121+ custom skills, inter-agent handoff, Hindsight memory backend.
 - **n8n Automation** – Enterprise-grade workflows: social media engines, DeFi event bots, ETL pipelines, lead enrichment, CRM integrations, Telegram games. 100+ integrations, hosted and self-hosted.
 - **LLM Operations** – 80+ model aliases across 14 providers (OpenAI, Anthropic, Kimi K2.5, Gemini, Qwen, GLM, DeepSeek, MiniMax). Intelligent routing, cost optimisation, fallback chains.
 - **Bots** – Telegram and Discord bots for Web3 actions, AI responses, live stats, alerts and notifications.
 - **RAG & Memory** – Supabase vector stores, OpenAI embeddings, Cohere reranking, local embeddings, context compression.
 - **Data Pipelines** – Node.js and Python ETL, on-chain event parsing, REST/GraphQL ingestion, Supabase/PostgreSQL, multithreaded scrapers handling 100k+ records.
 - **Dashboards** – Looker Studio and Dune Analytics dashboards that self-update and stay readable for non-technical teams.
-- **Algo Trading** – Live Binance Futures bot.
+- **Trading Systems** – Live cross-DEX arbitrage bot with its own Solidity execution contract, head-pinned on-chain quoting and a circuit breaker. Previously a Binance USDⓈ-M perpetuals bot.
+- **Solidity** – VeXRouter aggregation contract, live on Base, HyperEVM and Robinhood Chain. Arbitrage execution contract. Safe-owned proxy deployment scripts.
+- **Smart-Contract Security** – Solidity audit and bug-bounty toolkit. Static and symbolic analysis, fuzzing, an exploit corpus of 830+ incidents and 94,000 indexed findings.
 - **SaaS** – Full-stack Next.js, Supabase, Stripe billing, ReportLab PDF generation.
 - **MEP Engineering** – HVAC and electrical design, AutoCAD, heat-load calcs, data centres.
 
@@ -47,6 +49,7 @@ Hundreds of n8n workflows built over 5 years, 43 live in production.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-F36C3D?style=flat&logo=n8n&logoColor=white)
